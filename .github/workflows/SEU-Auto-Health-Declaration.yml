@@ -42,4 +42,3 @@ jobs:
       - name: Report
         run: |
           python ./report.py ${{ secrets.USERNAME }} ${{ secrets.PASSWORD }}
-          python ./report.py ${{ secrets.USERNAME_2 }} ${{ secrets.PASSWORD_2 }}
