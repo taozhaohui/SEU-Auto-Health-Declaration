@@ -1,4 +1,4 @@
-# 东南大学每日健康申报脚本
+# 东南大学自动每日健康申报脚本
 
 # SEU-Auto-Health-Declaration
 
